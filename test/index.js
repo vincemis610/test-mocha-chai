@@ -1,0 +1,12 @@
+describe('SUMAS', () => {
+  // Suma de + mas + tiene que ser +
+  it('Suma de + mas + tiene que ser + ', () => {
+    console.log( 2+2 );
+    console.log( 4 );
+  })
+  // Suma de + y mayor que el segundo elemento que es  - = +
+  it('Suma de + y mayor que el segundo elemento que es  - = + ', () => {
+    console.log( 3+(-2) );
+    console.log( 1 );
+  })
+})
